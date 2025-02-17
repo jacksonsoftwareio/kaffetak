@@ -2,6 +2,10 @@ body {
   background-color: rgb(220, 220, 220);
 }
 
+div.center {
+    text-align: center;
+}
+
 img.mainattractionimage {
   width: 80%;
   height: 80%;
